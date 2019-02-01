@@ -46,23 +46,23 @@ At UCL, I received 2 marks off distinction for my MSc thesis, using Stata to ana
 
 #### Economics qualifications
 
-##### 2009 – 2010 		MSc Economics, University College London
+#### 2009 – 2010 		MSc Economics, University College London
 Thesis: An econometric assessment: How did the Choose and Book scheme affect competition and provision of NHS healthcare? 
 	
-##### 2005 – 2008 		BSc (Hons) Economics, The University of Manchester (First Class) 
+#### 2005 – 2008 		BSc (Hons) Economics, The University of Manchester (First Class) 
                       Ranked fifth in cohort of 100+ students
 
-##### 2003 – 2005 		St. Albans High School
+#### 2003 – 2005 		St. Albans High School
                       A Levels: Economics (A), Mathematics (A), Chemistry (A), 
                       AS Level: Biology (B)
 
 ## Experience
 
-##### Nov 2010 – Jan 2019		Economist, (various Government Departments in London, see below) 
-Jan 2018 – Jan 2019 		    Economic Advisor, Department for Food, Environment & Rural Affairs
-Oct 2015 – Jan 2018 		    Economic Advisor, Department for Business, Energy & Industrial Strategy (formerly Department for Energy & Climate Change)
-Jun 2011 – Oct 2015 		    Assistant Economist, Committee on Climate Change
-Nov 2010 – Jun 2011 		    Assistant Economist, Office for National Statistics
+#### Nov 2010 – Jan 2019: Economist, (various Government Departments in London, see below) 
+- Jan 2018 – Jan 2019: Economic Advisor, Department for Food, Environment & Rural Affairs
+- Oct 2015 – Jan 2018: Economic Advisor, Department for Business, Energy & Industrial Strategy (formerly Department for Energy & Climate Change)
+- Jun 2011 – Oct 2015: Assistant Economist, Committee on Climate Change
+- Nov 2010 – Jun 2011: Assistant Economist, Office for National Statistics
 
 - In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for recent announcement of plastics tax.
 - I built analytical models (typically in Excel) to undertake quantitative analysis of large and incomplete datasets to determine both monetary and non-monetary costs and benefits. I did this both independently and delivering through my team. I researched and implemented innovative analytical techniques. 
@@ -70,13 +70,14 @@ Nov 2010 – Jun 2011 		    Assistant Economist, Office for National Statistics
 - I developed my oral and written communication skills through regularly presenting (to 100+ people), negotiating with Treasury in meetings, and briefing Ministers ensuring clear, concise and persuasive language.
 - I have been rewarded with a year career break from Defra to do Makers Academy (but I intend not to return).
 
-##### Nov 2013 – Aug 2014	Policy & research fellow / economic advisor, Melbourne, Australia (career break from Committee on Climate Change, London, see below)
-Jun 2014 – Aug 2014		    Economic Advisor, Australian Conservation Foundation. 
-Nov 2013 – Jul 2014 		  Policy and Research Fellow The Climate Institute, Melbourne
+#### Nov 2013 – Aug 2014: Policy & research fellow / economic advisor, Melbourne, Australia (career break from Committee on Climate Change, London, see below)
+- Jun 2014 – Aug 2014: Economic Advisor, Australian Conservation Foundation. 
+- Nov 2013 – Jul 2014: Policy and Research Fellow The Climate Institute, Melbourne
+
 - Led study to understand the role carbon-removal technologies in achieving climate goals. Managed project from start to finish including:
--- Analysed data and synthesised literature and authored two reports, presenting complex material in a scientifically credible way while being accessible to non-experts.
--- Led engagement strategy including workshops to consult on early findings and presenting finished material at national conferences.
--- Created blogs, videos, infographics and web material.
+- Analysed data and synthesised literature and authored two reports, presenting complex material in a scientifically credible way while being accessible to non-experts.
+- Led engagement strategy including workshops to consult on early findings and presenting finished material at national conferences.
+- Created blogs, videos, infographics and web material.
 
 
 
