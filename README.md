@@ -1,4 +1,4 @@
-## Clare Pinder
+## Clare Pinder		Ruby | Javascript | Python | front-end | SQL
 
 For eight years, I’ve enjoyed diverse roles as a Government Economist. While I appreciate the variety, I’m happiest at work building analytical models to solve logic-based problems. Even when a junior economist, I built a complex model in my own time to escape time-consuming manual data processing, which changed the way the Government analyses climate targets. 
  
@@ -24,9 +24,10 @@ I love working with people, in pairs and in teams (perhaps more than your typica
 I’m currently working on my programming course at Makers Academy – I’ll provide more detail here as the course develops.
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- Final project TBC
+- Ruby, Rails, JavaScript, Python
+- RSpec, Jasmine, Pytest
+- Final project: Ulima - Connect 4. A machine learning where we aimed to teach the computer to play Connect 4.
+- Final assessment feedback: "This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming – Haskell or Clojure being interesting routes into that."
 
 #### Economics qualifications
 
@@ -52,7 +53,7 @@ A Levels: Economics (A), Mathematics (A), Chemistry (A)
 - In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for the recent announcement of a plastics tax.
 - I built analytical models (typically in Excel) to undertake quantitative analysis of large and incomplete datasets to determine both monetary and non-monetary costs and benefits of proposed environmental policies. I did this both independently and delivering through my team. I researched and implemented innovative analytical techniques. 
 - I managed projects, proactively bringing in Agile project management techniques into a traditional project management environment.
-- I honed my oral and written communication skills through regularly presenting (to 100+ people), negotiating with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
+- I honed my oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
 - I have been rewarded with a year career break from Defra to do Makers Academy with the option to return if I choose (but I intend to find a job as a developer instead).
 
 #### Nov 2013 – Aug 2014: Policy & Research Fellow / Economic Adviser, NGOs, Melbourne, Australia (career break from Committee on Climate Change, London, see below)
