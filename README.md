@@ -2,7 +2,7 @@
 
 ### Ruby | Rails | Javascript | Python | front-end | PostgreSQL
 
-**This CV**: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience](https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests](https://github.com/clarepins/CV/blob/master/README.md#interests)
+#### This CV: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience](https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests](https://github.com/clarepins/CV/blob/master/README.md#interests)
 
 I am an energetic and ambitious **full stack junior developer**, looking for a role in a consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both back-end and front-end given my passions for maths and design.
 
