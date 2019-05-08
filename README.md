@@ -2,7 +2,7 @@
 
 ### Ruby | Rails | Javascript | Python | front-end | PostgreSQL
 
-**This CV**: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience] (https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests] (https://github.com/clarepins/CV/blob/master/README.md#interests)
+**This CV**: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience](https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests](https://github.com/clarepins/CV/blob/master/README.md#interests)
 
 I am an energetic and ambitious **full stack junior developer**, looking for a role in a consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both back-end and front-end given my passions for maths and design.
 
@@ -74,7 +74,7 @@ In these roles, I led many high profile economic analyses to determine the effec
 
 #### Nov 2013 – Aug 2014: Economic Adviser & Research Fellow for NGOs, Melbourne
 - [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
-- [The Climate Institute] (http://www.climateinstitute.org.au/) (2013–2014)
+- [The Climate Institute](http://www.climateinstitute.org.au/) (2013–2014)
 
 Led a study to understand the role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics and web material.
 
