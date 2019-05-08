@@ -1,6 +1,4 @@
-# Clare Pinder [![Github profile](https://github.com/clarepins/CV/blob/master/icons/Github-icon.png)](https://github.com/clarepins?tab=repositories)
-[![Linkedin profile](https://github.com/clarepins/CV/blob/master/icons/linkedin-icon.png)](https://www.linkedin.com/in/clare-pinder-95501957/)
-[![Codewars profile](https://github.com/clarepins/CV/blob/master/icons/codewars-icon.png)](https://www.codewars.com/users/clarepins)
+# Clare Pinder [![Github profile](https://github.com/clarepins/CV/blob/master/icons/Github-icon.png)](https://github.com/clarepins?tab=repositories) [![Linkedin profile](https://github.com/clarepins/CV/blob/master/icons/linkedin-icon.png)](https://www.linkedin.com/in/clare-pinder-95501957/) [![Codewars profile](https://github.com/clarepins/CV/blob/master/icons/codewars-icon.png)](https://www.codewars.com/users/clarepins)
 
 ### Ruby | Rails | Javascript | Python | front-end | PostgreSQL
 
