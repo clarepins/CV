@@ -1,19 +1,28 @@
 
-## CLARE PINDER | Ruby | Rails | Javascript | Python | front-end | SQL
+[![Github profile](https://github.com/clarepins/CV/blob/master/icons/Github-icon.png)](https://github.com/clarepins?tab=repositories)
+[![Linkedin profile](https://github.com/clarepins/CV/blob/master/icons/linkedin-icon.png)](https://www.linkedin.com/in/clare-pinder-95501957/)
+[![Codewars profile](https://github.com/clarepins/CV/blob/master/icons/codewars-icon.png)](https://www.codewars.com/users/clarepins)
 
-For eight years, I’ve enjoyed diverse roles as a Government Economist. While I appreciate the variety, I’m happiest at work building analytical models to solve logic-based problems. Even when a junior economist, I built a complex model in my own time to escape time-consuming manual data processing, which changed the way the Government analyses climate targets. 
- 
-Outside work, I love to create things. Since I can remember, I’ve been fascinated by taking things apart and putting them back together again, and I love to teach myself new skills. I’m a perfectionist about style and formatting which means I write code quickly and systematically, picking up errors. I also spend time on simple art and design and enjoy the crossover with programming and the functional design space.
- 
-I’m looking for a role in in a consultancy or tech company where I can learn best practice from experts on a variety of projects and quickly build a range of competence and experience. I’m interested in building both back-end and front-end skills, given my passions for maths *and* design.
+# Clare Pinder
+
+### Ruby | Rails | Javascript | Python | front-end | PostgreSQL
+
+**This CV**: [Projects](https://github.com/clarepins/CV#projects) | [Skills](https://github.com/clarepins/CV#skills) | [Education](https://github.com/clarepins/CV#education) | [Experience] (https://github.com/clarepins/CV#experience) | [Interests] (https://github.com/clarepins/CV#interests)
+
+I am an energetic and ambitious **full stack junior developer**, looking for a role in a consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both back-end and front-end given my passions for maths and design.
+
+Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for eight years I enjoyed diverse roles as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
 
 ## Projects
 
+See [Github](https://github.com/clarepins?tab=repositories) for full list.
+
 |Project   |Description   |Technologies   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Examples of practice tech tests using TDD, OOP |Ruby, RSpec|
+|[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |
+|[Acebook](https://github.com/clarepins/Acebook_Rails)|This is a simple clone of Facebook.   |Rails, RSpec Materialize, HTML, CSS|
+|Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS) and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|
 
 ## Skills
 
@@ -26,56 +35,62 @@ I have strong quantitative skills. I see the world in a very logical way which m
 
 #### Teamwork and communication
 
-I love working with people, in pairs and in teams (probably a lot more than your typical coder!). I enjoy bringing my enthusiasm about a project to a whole team as well as working out a problem together and learning from other perspectives. I persevere until a problem is solved. 
+I love working with people, in pairs and in teams (probably a lot more than your typical coder!). I enjoy bringing my enthusiasm about a project to a whole team as well as working out a problem together and learning from other perspectives. 
 
 I also pride myself on both my written and oral communication skills – working as a Government Economist for eight years has honed my ability to deliver clear, concise and persuasive communication to a range or audiences.
 
 ## Education
 
-#### Jan 2019 – Apr 2019: Makers Academy
-I’m currently working on my programming course at Makers Academy – I’ll provide more detail here as the course develops.
+#### Makers Academy (Jan 2019 – Apr 2019)
+Highly selective 4 month intensive coding bootcamp.
 
-- Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD)
-- Agile & eXtreme Programing values
-- Ruby, Rails, JavaScript, Python, front-end, SQL
-- RSpec, Jasmine, Pytest
-- Final project: Ulima - Connect 4. A machine learning where we aimed to teach the computer to play Connect 4.
-- Final assessment feedback: "This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming."
+Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
+
+- **Final assessment feedback**: *"This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming."*
+- Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD), 
+Agile & eXtreme Programing values
+- **Final project**: [Ulima – Connect 4](https://github.com/clarepins/Ulima_connect4). A machine learning project where we aimed to teach the computer to play Connect 4.
 
 ### Economics qualifications
 
-#### 2009 – 2010: University College London
-##### MSc Economics
-Thesis: An econometric assessment: How did the Choose and Book scheme affect competition and provision of NHS healthcare? (Analysis in Stata using vast, incomplete datasets. Received **2 marks off distinction**.)
+#### MSc Economics, University College London (2009–10)
+**Dissertation: 'An econometric assessment'**. *How did 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
 	
-#### 2005 – 2008: University of Manchester 
-##### BSc (Hons) Economics (First Class) 
-Ranked fifth in cohort of 100+ students
+#### BSc (Hons) Economics (First Class), University of Manchester (2005–08)
+Ranked **fifth in cohort** of 100+ students
 
-#### 2003 – 2005: St. Albans High School
+#### St. Albans High School (2003–05)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 
 ## Experience
 
 #### Nov 2010 – Jan 2019: Economic Adviser, various Government Departments
-- **Jan 2018 – Jan 2019**: Department for Food, Environment & Rural Affairs
-- **Oct 2015 – Jan 2018**: Department for Business, Energy & Industrial Strategy 
-- **Jun 2011 – Oct 2015**: Committee on Climate Change
-- **Nov 2010 – Jun 2011**: Office for National Statistics
+- [Department for Food, Environment & Rural Affairs] (https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018–2019)
+- [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015–2018)
+- [Committee on Climate Change](https://www.theccc.org.uk/) (2011–2015)
+- [Office for National Statistics](https://www.ons.gov.uk/) (2010–2011)
 
-In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for the recent announcement of a plastics tax.
+In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for the recent announcement of a [plastics tax](https://www.theguardian.com/environment/2018/oct/29/uk-to-consult-on-plastic-packaging-tax-chancellor-says).
 
-- I built analytical models (typically in Excel) to undertake quantitative analysis of large and incomplete datasets to determine both monetary and non-monetary costs and benefits of proposed environmental policies. I did this both independently and delivering through my team. I researched and implemented innovative analytical techniques. 
-- I managed projects, proactively bringing in Agile project management techniques into a traditional project management environment.
-- I honed my oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
-- I have been rewarded with a year career break from Defra to do Makers Academy with the option to return if I choose (but I intend to find a job as a developer instead).
+- Built analytical models to ascertain both monetary and non-monetary costs and benefits of proposed environmental policies. Both independently and delivering through my team. 
+- Managed projects, proactively bringing in Agile project management techniques into a traditional project management environment.
+- Honed oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
+- Was rewarded with a year career break from Defra to train at Makers Academy (although I intend to find a job as a developer instead).
 
 #### Nov 2013 – Aug 2014: Economic Adviser & Research Fellow for NGOs, Melbourne
-- **Jun 2014 – Aug 2014**: Australian Conservation Foundation
-- **Nov 2013 – Jul 2014**: The Climate Institute
+- [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
+- [The Climate Institute] (http://www.climateinstitute.org.au/) (2013–2014)
 
-In these posts, I led a study to understand the role carbon-removal technologies in achieving climate goals. 
+Led a study to understand the role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics and web material.
 
-- Analysed data, synthesised literature and authored two reports, presenting complex material in a scientifically credible way while being accessible to non-experts.
-- Led the engagement strategy including workshops to consult on early findings and presenting finished material at national conferences.
-- Created blogs, videos, infographics and web material.
+## Interests
+Outside work, I love to create things. Since I can remember, I’ve been fascinated by taking things apart and putting them back together again, and I love to teach myself new skills. Even when a junior economist, I built a complex model in my own time to escape time-consuming manual data processing, which changed the way the Government analyses climate targets. 
+
+I’m a perfectionist about style and formatting which means I write code quickly and systematically, picking up errors. I also spend time on simple art and design and enjoy the crossover with programming and the functional design space. 
+
+My hobbies include:
+
+- **Holistic health** – mediation, yoga, triathalons
+- **Art and design** – I paint and design and make clothes
+- **Languages** – I speak conversational Spanish and am learning Portuguese
+- **Coding meetups** – Codebar
