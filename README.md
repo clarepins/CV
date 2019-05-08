@@ -1,13 +1,10 @@
-
-[![Github profile](https://github.com/clarepins/CV/blob/master/icons/Github-icon.png)](https://github.com/clarepins?tab=repositories)
+# Clare Pinder [![Github profile](https://github.com/clarepins/CV/blob/master/icons/Github-icon.png)](https://github.com/clarepins?tab=repositories)
 [![Linkedin profile](https://github.com/clarepins/CV/blob/master/icons/linkedin-icon.png)](https://www.linkedin.com/in/clare-pinder-95501957/)
 [![Codewars profile](https://github.com/clarepins/CV/blob/master/icons/codewars-icon.png)](https://www.codewars.com/users/clarepins)
 
-# Clare Pinder
-
 ### Ruby | Rails | Javascript | Python | front-end | PostgreSQL
 
-**This CV**: [Projects](https://github.com/clarepins/CV#projects) | [Skills](https://github.com/clarepins/CV#skills) | [Education](https://github.com/clarepins/CV#education) | [Experience] (https://github.com/clarepins/CV#experience) | [Interests] (https://github.com/clarepins/CV#interests)
+**This CV**: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience] (https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests] (https://github.com/clarepins/CV/blob/master/README.md#interests)
 
 I am an energetic and ambitious **full stack junior developer**, looking for a role in a consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both back-end and front-end given my passions for maths and design.
 
@@ -26,14 +23,14 @@ See [Github](https://github.com/clarepins?tab=repositories) for full list.
 
 ## Skills
 
-#### Quantitative skills
+### Quantitative skills
 
 I have strong quantitative skills. I see the world in a very logical way which means I can break problems down into simple solutions that work for the user and for my computer.
 
 - At Manchester Uni, I ranked **fifth in my cohort** with a First Class BSc in Quantitative Economics; and
 - At UCL, I received **2 marks off distinction** for my MSc thesis, using Stata to analyse the impact of a health policy using large healthcare datasets.
 
-#### Teamwork and communication
+### Teamwork and communication
 
 I love working with people, in pairs and in teams (probably a lot more than your typical coder!). I enjoy bringing my enthusiasm about a project to a whole team as well as working out a problem together and learning from other perspectives. 
 
@@ -41,7 +38,7 @@ I also pride myself on both my written and oral communication skills – working
 
 ## Education
 
-#### Makers Academy (Jan 2019 – Apr 2019)
+### Makers Academy (Jan 2019 – Apr 2019)
 Highly selective 4 month intensive coding bootcamp.
 
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
