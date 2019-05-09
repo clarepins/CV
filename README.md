@@ -70,7 +70,7 @@ In these roles, I led many high profile economic analyses to determine the effec
 - Built analytical models to ascertain both monetary and non-monetary costs and benefits of proposed environmental policies. Both independently and delivering through my team. 
 - Managed projects, proactively bringing in Agile project management techniques into a traditional project management environment.
 - Honed oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
-- Was rewarded with a year career break from Defra to train at Makers Academy (although I intend to find a job as a developer instead).
+- Was rewarded with a year career break from Defra to train at Makers Academy (although I plan to find a job as a developer rather than returning).
 
 #### Economic Adviser & Research Fellow for NGOs, Melbourne (2013 – 2014)
 - [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
@@ -88,4 +88,4 @@ My hobbies include:
 - **Holistic health** – mediation, yoga, triathalons
 - **Art and design** – I paint and design and make clothes
 - **Languages** – I speak conversational Spanish and am learning Portuguese
-- **Coding meetups** – Codebar
+- **Coding meetups** – I regularly attend Codebar
