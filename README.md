@@ -12,12 +12,12 @@ Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for e
 
 See [Github](https://github.com/clarepins?tab=repositories) for full list.
 
-|Project   |Description   |Technologies   |
-|---|---|---|
-|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Examples of practice tech tests using TDD, OOP |Ruby, RSpec|
-|[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |
-|[Acebook](https://github.com/clarepins/Acebook_Rails)|This is a simple clone of Facebook.   |Rails, RSpec Materialize, HTML, CSS|
-|Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS) and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|
+|Project   |Description   |Technologies   |Contributors |
+|---|---|---|---|
+|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Examples of practice tech tests using TDD, OOP |Ruby, RSpec|Indepentent project|
+|[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |Indepentent project|
+|[Acebook](https://github.com/clarepins/Acebook_Rails)|This is a simple clone of Facebook.   |Rails, RSpec Materialize, HTML, CSS|Group of 4 at Makers|
+|Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS) and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|Indepentent project|
 
 ## Skills
 
