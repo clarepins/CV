@@ -48,22 +48,22 @@ Agile & eXtreme Programing values
 
 ### Economics qualifications
 
-#### MSc Economics, University College London (2009–10)
+#### MSc Economics, University College London (2009 – 10)
 **Dissertation: 'An econometric assessment'**. *How did 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
 	
-#### BSc (Hons) Economics (First Class), University of Manchester (2005–08)
+#### BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
 Ranked **fifth in cohort** of 100+ students
 
-#### St. Albans High School (2003–05)
+#### St. Albans High School (2003 – 05)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 
 ## Experience
 
-#### Nov 2010 – Jan 2019: Economic Adviser, various Government Departments
-- [Department for Food, Environment & Rural Affairs] (https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018–2019)
-- [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015–2018)
-- [Committee on Climate Change](https://www.theccc.org.uk/) (2011–2015)
-- [Office for National Statistics](https://www.ons.gov.uk/) (2010–2011)
+#### Economic Adviser, various Government Departments (2010 – 2019)
+- [Department for Food, Environment & Rural Affairs] (https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018 – 2019)
+- [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015 – 2018)
+- [Committee on Climate Change](https://www.theccc.org.uk/) (2011 – 2015)
+- [Office for National Statistics](https://www.ons.gov.uk/) (2010 – 2011)
 
 In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for the recent announcement of a [plastics tax](https://www.theguardian.com/environment/2018/oct/29/uk-to-consult-on-plastic-packaging-tax-chancellor-says).
 
@@ -72,9 +72,9 @@ In these roles, I led many high profile economic analyses to determine the effec
 - Honed oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
 - Was rewarded with a year career break from Defra to train at Makers Academy (although I intend to find a job as a developer instead).
 
-#### Nov 2013 – Aug 2014: Economic Adviser & Research Fellow for NGOs, Melbourne
+#### Economic Adviser & Research Fellow for NGOs, Melbourne (2013 – 2014)
 - [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
-- [The Climate Institute](http://www.climateinstitute.org.au/) (2013–2014)
+- [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
 
 Led a study to understand the role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics and web material.
 
