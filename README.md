@@ -54,7 +54,7 @@ Agile & eXtreme Programing values
 #### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
 Ranked **fifth in cohort** of 100+ students
 
-#### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/) St. Albans High School (2003 – 05)
+#### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/)St. Albans High School (2003 – 05)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 
 ## Experience
