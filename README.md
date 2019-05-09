@@ -36,7 +36,7 @@ I also pride myself on both my written and oral communication skills – working
 
 ## Education
 
-### Makers Academy (Jan 2019 – Apr 2019)
+### [![Makers Academy](https://github.com/clarepins/CV/blob/master/icons/makers-icon.png)](https://makers.tech/) Makers Academy (Jan 2019 – Apr 2019)
 Highly selective 4 month intensive coding bootcamp.
 
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
@@ -48,13 +48,13 @@ Agile & eXtreme Programing values
 
 ### Economics qualifications
 
-#### MSc Economics, University College London (2009 – 10)
+#### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 10)
 **Dissertation: 'An econometric assessment'**. *How did 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
 	
-#### BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
+#### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
 Ranked **fifth in cohort** of 100+ students
 
-#### St. Albans High School (2003 – 05)
+#### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/) St. Albans High School (2003 – 05)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 
 ## Experience
