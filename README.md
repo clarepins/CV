@@ -36,7 +36,7 @@ I also pride myself on both my written and oral communication skills – working
 
 ## Education
 
-### [![Makers Academy](https://github.com/clarepins/CV/blob/master/icons/makers-icon.png)](https://makers.tech/) Makers Academy (Jan 2019 – Apr 2019)
+### [![Makers Academy](https://github.com/clarepins/CV/blob/master/icons/makers-icon.jpg)](https://makers.tech/) Makers Academy (Jan 2019 – Apr 2019)
 Highly selective 4 month intensive coding bootcamp.
 
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
