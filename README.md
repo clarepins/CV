@@ -4,7 +4,7 @@
 
 #### This CV: [Projects](https://github.com/clarepins/CV/blob/master/README.md#projects) | [Skills](https://github.com/clarepins/CV/blob/master/README.md#skills) | [Education](https://github.com/clarepins/CV/blob/master/README.md#education) | [Experience](https://github.com/clarepins/CV/blob/master/README.md#experience) | [Interests](https://github.com/clarepins/CV/blob/master/README.md#interests)
 
-I am an energetic and ambitious **full stack junior developer**, looking for a role in an established consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both back-end and front-end given my passions for maths and design.
+I am an energetic and ambitious **full stack junior developer**, looking for a role in an established consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both backend and frontend given my passions for maths and design.
 
 Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for eight years I enjoyed diverse roles as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
 
