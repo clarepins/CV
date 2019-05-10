@@ -14,7 +14,7 @@ See [Github](https://github.com/clarepins?tab=repositories) for full list.
 
 |Project   |Description   |Technologies   |Contributors |
 |---|---|---|---|
-|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Examples of practice tech tests using TDD, OOP |Ruby, RSpec|Indepentent project|
+|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Practice tech tests: examples of clean code using TDD, OOP. |Ruby, RSpec|Indepentent project|
 |[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |Indepentent project|
 |[Acebook](https://github.com/clarepins/Acebook_Rails)|This is a simple clone of Facebook.   |Rails, RSpec Materialize, HTML, CSS|Group of 4 at Makers|
 |Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS) and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|Indepentent project|
@@ -42,7 +42,7 @@ Highly selective 4 month intensive coding bootcamp.
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
 
 - Makers does not assign a grade or mark to its students, but I received the following **[feedback](https://github.com/clarepins/CV/blob/master/clare-pinder-makers-feedback.pdf) for my final assessment**: *"This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming..."*
-- **Final project**: [Ulima – Connect 4](https://github.com/clarepins/Ulima_connect4). A machine learning project where we aimed to teach the computer to play Connect 4. Python | Behave | OpenAI Gym | Tensorflow | Keras | PyGame
+- **Final project**: [Ulima – Connect 4](https://docs.google.com/presentation/d/1aWGXvhCeUol_LLWPPOns9OQNlNduxVwjpcm_Dn-4XfA/edit?usp=sharing). A machine learning project where we aimed to teach the computer to play Connect 4. Python | Behave | OpenAI Gym | Tensorflow | Keras | PyGame
 - All coding ahered to the these **principles**: Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD), 
 Agile & eXtreme Programing values
 
