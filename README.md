@@ -14,10 +14,10 @@ See [Github](https://github.com/clarepins?tab=repositories) for full list.
 
 |Project   |Description   |Technologies   |Contributors |
 |---|---|---|---|
-|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Practice tech tests: examples of clean code using TDD, OOP. |Ruby, RSpec|Indepentent project|
-|[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |Indepentent project|
+|[Bank](https://github.com/clarepins/bank_tech_test) and [Quiz](https://github.com/clarepins/quiz)|Practice tech tests: examples of clean code using TDD, OOP. |Ruby, RSpec|Independent project|
+|[News App](https://github.com/clarepins/news-summary-challenge)|Simple web app to summarise the headlines. Wrote my own testing framework. |Javascript, Ruby, HTML, CSS |Independent project|
 |[Acebook](https://github.com/clarepins/Acebook_Rails)|This is a simple clone of Facebook.   |Rails, RSpec Materialize, HTML, CSS|Group of 4 at Makers|
-|Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS) and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|Indepentent project|
+|Airport in [Ruby](https://github.com/clarepins/airport_challenge), [Python](https://github.com/clarepins/airport_python), [Javascript](https://github.com/clarepins/airportJS), and Clojure|Here I test drove a simple program in four languages.|Ruby & RSpec, Python & Pytest, Javascript & Jasmine, Clojure & Clojure.test|Independent project|
 
 ## Skills
 
@@ -30,9 +30,9 @@ I have strong quantitative skills. I see the world in a very logical way which m
 
 ### Teamwork and communication
 
-I love working with people, in pairs and in teams (probably a lot more than your typical coder!). I enjoy bringing my enthusiasm about a project to a whole team as well as working out a problem together and learning from other perspectives. 
+I love working with people, in pairs and in teams. I enjoy bringing my enthusiasm about a project to a whole team as well as working out a problem together and learning from other perspectives. 
 
-I also pride myself on both my written and oral communication skills – working as a Government Economist for eight years has honed my ability to deliver clear, concise and persuasive communication to a range or audiences.
+I also pride myself on both my written and oral communication skills – working as a Government Economist for eight years has honed my ability to deliver clear, concise and persuasive communication to a range of audiences.
 
 ## Education
 
@@ -43,13 +43,13 @@ Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | Pos
 
 - Makers does not assign a grade or mark to its students, but I received the following **[feedback](https://github.com/clarepins/CV/blob/master/clare-pinder-makers-feedback.pdf) for my final assessment**: *"This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming..."*
 - **Final project**: [Ulima – Connect 4](https://docs.google.com/presentation/d/1aWGXvhCeUol_LLWPPOns9OQNlNduxVwjpcm_Dn-4XfA/edit?usp=sharing). A machine learning project where we aimed to teach the computer to play Connect 4. Python | Behave | OpenAI Gym | Tensorflow | Keras | PyGame
-- All coding ahered to the these **principles**: Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD), 
-Agile & eXtreme Programing values
+- All coding adhered to these **principles**: Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD), 
+Agile & eXtreme Programming values
 
 ### Economics qualifications
 
 #### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 10)
-**Dissertation: 'An econometric assessment'**. *How did 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
+**Dissertation: 'An econometric assessment'**. *How did a 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
 	
 #### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
 Ranked **fifth in cohort** of 100+ students
@@ -76,7 +76,7 @@ In these roles, I led many high profile economic analyses to determine the effec
 - [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
 - [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
 
-Led a study to understand the role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics and web material.
+Led a study to understand the of role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics, and web material.
 
 ## Interests
 Outside work, I love to create things. Since I can remember, I’ve been fascinated by taking things apart and putting them back together again, and I love to teach myself new skills. Even when a junior economist, I built a complex model in my own time to escape time-consuming manual data processing, which changed the way the Government analyses climate targets. 
