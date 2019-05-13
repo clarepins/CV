@@ -6,7 +6,7 @@
 
 I am an energetic and ambitious **full stack junior developer**, looking for a role in an established consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both backend and frontend given my passions for maths and design.
 
-Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for eight years I enjoyed diverse roles as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
+Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for eight years I enjoyed diverse roles as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies, to drafting the [impact assessment](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/690806/SmartAppliancesConsultationStageIA-.pdf) to regulate smart appliances. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
 
 ## Projects
 
