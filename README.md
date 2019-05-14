@@ -6,7 +6,7 @@
 
 I am an energetic and ambitious **full stack junior developer**, looking for a role in an established consultancy or tech company where I can learn best practice from experts. I am keen to work on a variety of projects – building both backend and frontend given my passions for maths and design.
 
-Before graduating from [Makers Academy](https://makers.tech/) in May 2019, for eight years I enjoyed diverse roles as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies, to drafting the [impact assessment](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/690806/SmartAppliancesConsultationStageIA-.pdf) to regulate smart appliances. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
+Before graduating from [Makers Academy](https://makers.tech/) in May 2019, I enjoyed diverse roles for eight years as a **Government Economist**, ranging from leading negotiations with the Treasury to win funding, to building complex analytical models to estimate costs and benefits of high-profile environmental policies, to leading the impact assessment for smart appliance regulations. While I appreciated the variety, I was happiest at work using Excel and statistical software to solve logic-based problems, which led me to explore coding.
 
 ## Projects
 
@@ -60,12 +60,12 @@ A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 ## Experience
 
 #### Economic Adviser, various Government Departments (2010 – 2019)
-- [Department for Food, Environment & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018 – 2019)
-- [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015 – 2018)
-- [Committee on Climate Change](https://www.theccc.org.uk/) (2011 – 2015)
-- [Office for National Statistics](https://www.ons.gov.uk/) (2010 – 2011)
+- Head of Fiscal Analysis, [Department for Food, Environment & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018 – 2019)
+- Smart Energy Analyst, [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015 – 2018)
+- Power Sector, [Committee on Climate Change](https://www.theccc.org.uk/) (2011 – 2015)
+- Health Sector Productivity, [Office for National Statistics](https://www.ons.gov.uk/) (2010 – 2011)
 
-In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies, for example for the recent announcement of a [plastics tax](https://www.theguardian.com/environment/2018/oct/29/uk-to-consult-on-plastic-packaging-tax-chancellor-says).
+In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies. For example, preparing for future grid impacts of [electric vehicles](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/748296/delivering-clean-growth.pdf), regulating cybersecurity & interoperability of [smart appliances](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/690806/SmartAppliancesConsultationStageIA-.pdf), and assessing cost impacts to society of innovative [renewable technologies](https://www.theccc.org.uk/wp-content/uploads/2013/06/CCC-Prog-Rep-Book_singles_web_1.pdf).
 
 - Built analytical models to ascertain both monetary and non-monetary costs and benefits of proposed environmental policies. Both independently and delivering through my team. 
 - Managed projects, proactively bringing in Agile project management techniques into a traditional project management environment.
@@ -76,7 +76,7 @@ In these roles, I led many high profile economic analyses to determine the effec
 - [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
 - [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
 
-Led a study to understand the of role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics, and web material.
+Led a [study](http://www.climateinstitute.org.au/moving-below-zero.html) to understand the of role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics, and web material.
 
 ## Interests
 Outside work, I love to create things. Since I can remember, I’ve been fascinated by taking things apart and putting them back together again, and I love to teach myself new skills. Even when a junior economist, I built a complex model in my own time to escape time-consuming manual data processing, which changed the way the Government analyses climate targets. 
