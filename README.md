@@ -42,7 +42,7 @@ Highly selective 4 month intensive coding bootcamp.
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
 
 - Makers does not assign a grade or mark to its students, but I received the following **[feedback](https://github.com/clarepins/CV/blob/master/clare-pinder-makers-feedback.pdf) for my final assessment**: *"This was a really excellent review. There wasn't one moment where I felt you were off-process: as a result, you were focussed, clear, and intentional. You identified the core problem rapidly, modelled it well, and designed and built a powerful but self-contained algorithm to solve the problem. Your debugging approaches seemed on point and your code was well-factored and thoughtful. It's hard to point out areas to improve within the context of Makers, but I have a hunch you might be interested in some aspects of functional programming..."*
-- **Final project**: [Ulima – Connect 4](https://docs.google.com/presentation/d/1aWGXvhCeUol_LLWPPOns9OQNlNduxVwjpcm_Dn-4XfA/edit?usp=sharing). A machine learning project where we aimed to teach the computer to play Connect 4. Python | Behave | OpenAI Gym | Tensorflow | Keras | PyGame
+- **Final project**: [Ulima – Connect 4](https://www.facebook.com/MakersAcademy/videos/1034352356758922/?&t=809). A machine learning project where we aimed to teach the computer to play Connect 4. Python | Behave | OpenAI Gym | Tensorflow | Keras | PyGame
 - All coding adhered to these **principles**: Test Driven Development (TDD), Object Oriented Principles (OOP), Model View Controller (MVC), Domain Driven Design (DDD), 
 Agile & eXtreme Programming values
 
