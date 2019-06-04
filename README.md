@@ -49,7 +49,7 @@ Agile & eXtreme Programming values
 ### Economics qualifications
 
 #### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 10)
-**Dissertation: 'An econometric assessment'**. *How did a 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Grade: **2 marks off distinction**).
+**Dissertation:** ***'An econometric assessment':*** *How did a 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Grade: **2 marks off distinction**).
 	
 #### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics, University of Manchester (2005 – 08)
 Grade: **First Class** (ranked **fifth in cohort** of 100+ students)
