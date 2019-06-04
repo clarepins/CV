@@ -36,7 +36,7 @@ I also pride myself on both my written and oral communication skills – working
 
 ## Education
 
-### [![Makers Academy](https://github.com/clarepins/CV/blob/master/icons/makers-icon.jpg)](https://makers.tech/) Makers Academy (Jan 2019 – Apr 2019)
+### [![Makers Academy](https://github.com/clarepins/CV/blob/master/icons/makers-icon.jpg)](https://makers.tech/) Makers Academy (Jan – Apr 2019)
 Highly selective 4 month intensive coding bootcamp.
 
 Ruby | Rails | JavaScript |  Python |  Sinatra | HTML  | CSS | Materialize | PostgreSQL | RSpec | Jasmine | Pytest | Capybara
@@ -48,22 +48,22 @@ Agile & eXtreme Programming values
 
 ### Economics qualifications
 
-#### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 10)
+#### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 2010)
 **Dissertation:** ***'An econometric assessment:*** *How did a 2005 health policy affect competition and provision of NHS healthcare?'* Analysis in Stata using vast, incomplete datasets. (Grade: **2 marks off distinction**).
 	
-#### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics, University of Manchester (2005 – 08)
+#### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics, University of Manchester (2005 – 2008)
 Grade: **First Class** (ranked **fifth in cohort** of 100+ students)
 
-#### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/)St. Albans High School (2003 – 05)
+#### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/)St. Albans High School (2003 – 2005)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
 
 ## Experience
 
 #### Economic Adviser, various Government Departments (2010 – 2019)
-- Head of Fiscal Analysis, [Department for Food, Environment & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (2018 – 2019)
-- Smart Energy Analyst, [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (2015 – 2018)
-- Power Sector, [Committee on Climate Change](https://www.theccc.org.uk/) (2011 – 2015)
-- Health Sector Productivity, [Office for National Statistics](https://www.ons.gov.uk/) (2010 – 2011)
+- Head of Fiscal Analysis, [Department for Food, Environment & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (Jan 2018 – Jan 2019)
+- Smart Energy Analyst, [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) (Oct 2015 – Jan 2018)
+- Power Sector, [Committee on Climate Change](https://www.theccc.org.uk/) (Jun 2011 – Oct 2015)
+- Health Sector Productivity, [Office for National Statistics](https://www.ons.gov.uk/) (Nov 2010 – Jun 2011)
 
 In these roles, I led many high profile economic analyses to determine the effectiveness of proposed environmental policies. For example, preparing for future grid impacts of [electric vehicles](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/748296/delivering-clean-growth.pdf), regulating cybersecurity & interoperability of [smart appliances](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/690806/SmartAppliancesConsultationStageIA-.pdf), and assessing cost impacts to society of innovative [renewable technologies](https://www.theccc.org.uk/wp-content/uploads/2013/06/CCC-Prog-Rep-Book_singles_web_1.pdf).
 
@@ -72,9 +72,9 @@ In these roles, I led many high profile economic analyses to determine the effec
 - Honed oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
 - Was rewarded with a year career break from Defra to train at Makers Academy (although I plan to find a job as a developer rather than returning).
 
-#### NGO work, Melbourne (2013 – 2014)
-- Economic Adviser, [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
-- Research Fellow, [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
+#### NGO contract work (on career break from Government), Melbourne (2013 – 2014)
+- Economic Adviser, [Australian Conservation Foundation](https://www.acf.org.au/) (Jun – Jul 2014)
+- Research Fellow, [The Climate Institute](http://www.climateinstitute.org.au/) (Nov 2013 – Jul 2014)
 
 Led a [study](http://www.climateinstitute.org.au/moving-below-zero.html) to understand the of role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics, and web material.
 
