@@ -51,8 +51,8 @@ Agile & eXtreme Programming values
 #### [![UCL](https://github.com/clarepins/CV/blob/master/icons/ucl-icon.jpg)](https://www.ucl.ac.uk/) MSc Economics, University College London (2009 – 10)
 **Dissertation: 'An econometric assessment'**. *How did a 2005 health policy affect competition and provision of NHS healthcare?* Analysis in Stata using vast, incomplete datasets. (Received **2 marks off distinction**).
 	
-#### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics (First Class), University of Manchester (2005 – 08)
-Ranked **fifth in cohort** of 100+ students
+#### [![Manchester Uni](https://github.com/clarepins/CV/blob/master/icons/manchester-icon.jpg)](https://www.manchester.ac.uk/) BSc (Hons) Economics, University of Manchester (2005 – 08)
+**First Class** (ranked **fifth in cohort** of 100+ students)
 
 #### [![SAHS](https://github.com/clarepins/CV/blob/master/icons/SAHS-icon.png)](https://www.stahs.org.uk/)St. Albans High School (2003 – 05)
 A Levels: Economics (**A**), Mathematics (**A**), Chemistry (**A**)
