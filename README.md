@@ -72,9 +72,9 @@ In these roles, I led many high profile economic analyses to determine the effec
 - Honed oral and written communication skills through regularly presenting (to 100+ people), leading negotiation with the Treasury to agree funding, and briefing Ministers ensuring clear, concise and persuasive language.
 - Was rewarded with a year career break from Defra to train at Makers Academy (although I plan to find a job as a developer rather than returning).
 
-#### Economic Adviser & Research Fellow for NGOs, Melbourne (2013 – 2014)
-- [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
-- [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
+#### NGO work, Melbourne (2013 – 2014)
+- Economic Adviser, [Australian Conservation Foundation](https://www.acf.org.au/) (2014)
+- Research Fellow, [The Climate Institute](http://www.climateinstitute.org.au/) (2013 – 2014)
 
 Led a [study](http://www.climateinstitute.org.au/moving-below-zero.html) to understand the of role carbon-removal technologies in achieving climate goals. Analysed data, drafted reports, presented complex material at national conferences. Created blogs, videos, infographics, and web material.
 
